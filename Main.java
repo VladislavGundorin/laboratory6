@@ -5,4 +5,7 @@ class Main{
     public class oneClass{
 
     }
+    public class whoClass{
+
+    }
 }

@@ -8,4 +8,7 @@ class Main{
     public class whoClass{
 
     }
+    public class threeClass{
+
+    }
 }
